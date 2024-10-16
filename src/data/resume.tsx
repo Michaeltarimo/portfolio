@@ -2,28 +2,25 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  name: "Michael Tarimo",
+  initials: "Dr",
+  url: "https://tarimo.vercel.app",
+  location: "Dar es salaam, TZ",
+  locationLink: "https://maps.app.goo.gl/dS4qGRDDq3FrV8A99",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Medical Doctor turned Health Tech Entrepreneur. Driven by the goal of integrating technology with healthcare to improve patient care and clinical research. Always learning, building, and reaching for solutions.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-  avatarUrl: "/me.png",
+  "At the end of 2023, I shifted my focus from clinical practice to building innovative health tech solutions full-time. In the past, [I pursued my medical degree in Tanzania](/#education), [led multiple health outreach programs across the country](/#community-involvement), and [taught myself software development to solve healthcare challenges](/#skills). I’m currently working on scaling [Rezour](https://rezour.com), a startup I founded to automate clinical research and optimize patient data management using AI-driven solutions.",
+  avatarUrl: "/michael_moshi.jpg",
   skills: [
     "React",
+    "ReactNative",
     "Next.js",
-    "Typescript",
+    "Expo Go",
+    "Javascript",
     "Node.js",
     "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-    "Java",
-    "C++",
+    "MongoDB",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
