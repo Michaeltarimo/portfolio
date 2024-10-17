@@ -25,6 +25,42 @@ export const DATA = {
     "Python",
     "Tailwindcss",
   ],
+  clinicalskills: [
+    "Physical Examinations",
+    "Diagnostic Skills",
+    "Treatment Planning",
+    "Patient Management",
+    "Emergency Care",
+    "Patient Education",
+    "Cultural Competence",
+    "Ethical Practice",
+    "Interprofessional Collaboration",
+    "Lifelong Learning"
+  ],
+  researchskills: [
+    "Clinical Trial Design",
+    "Data Collection and Analysis",
+    "Statistical Methods",
+    "Patient Recruitment",
+    "Regulatory Compliance",
+    "Publication and Presentation of Findings",
+    "Literature Review",
+    "Protocol Development",
+    "Grant Writing",
+    "Collaborative Research"
+  ],
+  outreachskills: [
+    "Community Engagement",
+    "Health Education Workshops",
+    "Screening Programs",
+    "Collaboration with NGOs",
+    "Advocacy for Health Initiatives",
+    "Cultural Sensitivity in Outreach",
+    "Needs Assessment",
+    "Public Speaking",
+    "Partnership Development",
+    "Program Evaluation"
+  ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
@@ -78,7 +114,7 @@ export const DATA = {
       location: "Remote",
       title: "Founder/Dev",
       logoUrl: "/rezour.png",
-      start: "September 2024",
+      start: "Sept 2024",
       end: "Current",
       description:
         "Architected and wrote the entire MVP of Rezour using Next.js, Prisma, Neon, and D3.js for real-time data visualization. Integrated OpenAI API for AI-driven research tasks, FHIR.js for healthcare data interoperability, and implemented unit testing with Jest and CI/CD pipelines using GitHub Actions."
@@ -90,7 +126,7 @@ export const DATA = {
       location: "Remote",
       title: "Senior Software Developer",
       logoUrl: "/momentam.png",
-      start: "August 2024",
+      start: "Aug 2024",
       end: "Current",
       description:
         "Architected and developed mobile applications for photographers and clients using React Native, NativeWind, and the Expo Go framework. Integrated secure data storage solutions with Appwrite and Firebase. Designed and launched the web application and administration system with Next.js, utilizing Prisma for database management in Neon."
@@ -102,7 +138,7 @@ export const DATA = {
       location: "Dar es salaam, Tanzania",
       title: "Medical Dcotor",
       logoUrl: "/amana.png",
-      start: "April 2023",
+      start: "Apr 2023",
       end: "May 2024",
       description:
         "Provided comprehensive patient care as a general practitioner, performing physical exams, managing chronic conditions with tailored care plans, and ensuring continuity of care through coordination with specialists. Emphasized early detection of health issues via routine screenings while staying updated on medical advancements through professional development."
@@ -114,8 +150,8 @@ export const DATA = {
       location: "Moshi, Tanzania",
       title: "Medical Dcotor",
       logoUrl: "/kcmc.png",
-      start: "November 2022",
-      end: "April 2023",
+      start: "Nov 2022",
+      end: "Apr 2023",
       description:
         "Delivered holistic patient care in a general practitioner role, conducting thorough physical examinations and developing individualized care plans for chronic condition management. Fostered effective communication and collaboration with specialists to maintain seamless patient care. Prioritized early intervention through regular health screenings and committed to ongoing professional growth by engaging in workshops and medical education."
     },
@@ -123,20 +159,20 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Buildspace",
-      href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
-      logoUrl: "/buildspace.jpg",
-      start: "2023",
-      end: "2024",
+      school: "Muhimbili University of Health & Allied Science (MUHAS)",
+      href: "https://muhas.ac.tz/",
+      degree: "Doctor of Medicine",
+      logoUrl: "/muhas.png",
+      start: "2017",
+      end: "2022",
     },
     {
-      school: "University of Waterloo",
-      href: "https://uwaterloo.ca",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
+      school: "Kibaha Secondary School",
+      href: "https://www.kec.or.tz/",
+      degree: "Advanced Certificate of Secondary Education Examination (ACSEE)",
+      logoUrl: "/kibaha.png",
+      start: "2015",
+      end: "2017",
     },
     {
       school: "Christ the King Sec School",
