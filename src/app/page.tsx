@@ -205,7 +205,7 @@ export default function Page() {
                   I like solving things 
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university I was able to do part-time gigs to finance my medical school, I've written clinical research papers, attended{" "}
+                  During my time in university I was able to do part-time gigs to finance my medical school, I&apos;ve written clinical research papers, attended{" "}
                   {DATA.hackathons.length}+ hackathons and met curious well trained tech &amp; non tech founders who guided
                   me through the tech industry. 
                 </p>
