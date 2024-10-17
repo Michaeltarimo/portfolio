@@ -223,7 +223,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/vids/tanapa_demo.mp4",
+        "/vids/rezour_demo.mp4",
     },
     {
       title: "Tanapa UI",
@@ -283,7 +283,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      video: "/vids/photographer_demo.mp4",
     },
     {
       title: "Automatic Chat",
