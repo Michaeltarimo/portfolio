@@ -108,6 +108,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Tanga Regional Referral Hospital",
+      href: "http://tangarrh.go.tz",
+      badges: [],
+      location: "Remote",
+      title: "Medical Doctor",
+      logoUrl: "/trrh.jpg",
+      start: "October 2024",
+      end: "Current",
+      description:
+      "My work includes providing comprehensive patient care as a general practitioner, performing physical exams, managing chronic conditions with tailored care plans, and ensuring continuity of care through coordination with specialists. Emphasizing early detection of health issues via routine screenings while staying updated on medical advancements through professional development."
+    },
+    {
       company: "Rezour Inc",
       href: "https://rezour.com",
       badges: [],
