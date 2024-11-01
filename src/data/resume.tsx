@@ -111,7 +111,7 @@ export const DATA = {
       company: "Tanga Regional Referral Hospital",
       href: "http://tangarrh.go.tz",
       badges: [],
-      location: "Remote",
+      location: "Tanga, Tanzania",
       title: "Medical Doctor",
       logoUrl: "/trrh.jpg",
       start: "October 2024",
