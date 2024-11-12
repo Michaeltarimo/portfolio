@@ -235,7 +235,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/vids/rezour_demo.mp4",
+        "/vids/rezour_research.mp4",
     },
     {
       title: "Tanapa UI",
